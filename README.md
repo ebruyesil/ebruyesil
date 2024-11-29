@@ -1,4 +1,4 @@
-# 💻 Hi, there!
+## 💻 Hi, there!
 🌟 **Computer Engineer | Mobile App Developer**  
 
 Ebru here. I'm a computer engineer, interest in mobile application development. Also, I am currently receiving training in the field of testing to ensure the quality of the software.
