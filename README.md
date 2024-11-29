@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💻 Ebru Yeşil  
 🌟 **Computer Engineer | Mobile App Developer**  
 
