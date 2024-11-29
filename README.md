@@ -26,7 +26,7 @@ Ebru here. I'm a computer engineer, interest in mobile application development. 
 - Artificial Intelligence Camp (2023)  
 - Android Fundamentals and API Communication (2021)  
 -->
-# 📫 Get in Touch  
+### 📫 Get in Touch  
 - [Email](mailto:ebruyesil17@gmail.com)  
 
 
