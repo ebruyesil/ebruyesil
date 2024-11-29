@@ -3,7 +3,7 @@
 
 Ebru here. I'm a computer engineer, interest in mobile application development. Also, I am currently receiving training in the field of testing to ensure the quality of the software.
 
-## 🔧 Technical Skills  
+
 ### 🚀 Programming Languages  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
